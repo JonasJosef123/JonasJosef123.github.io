@@ -1,0 +1,44 @@
+
+body{
+background-position: center;
+background-image: url(https://www.maria-laach.de/assets/components/phpthumbof/cache/jesuitenbibliothek_77.d91648d5792bcc59a9e337e4070c4934.jpg);
+background-size: cover;
+height: 100%;
+}
+.clear{
+ margin:0% auto;
+  
+}
+
+
+.btn-primary{
+
+  display:block;
+   margin: 0% auto;
+   width: 250px;
+   font-family: cursive;
+   font-size: 20px;
+   background: rgb(220,160,140);
+   border: white solid;
+   border-radius: 25px;
+
+}
+.btn-primary:hover{
+
+background: rgb(220,160,140,0.9);
+ border: black solid ;
+}
+
+.jumbotron-fluid{
+  background: rgb(220,160,140,0.9);
+  display: block;
+  margin: 7% auto;
+  width: 700px;
+  color: white;
+  text-align: center;
+border-radius: 25px;
+}
+
+.divider{
+  border: solid white 0.5px;
+}
